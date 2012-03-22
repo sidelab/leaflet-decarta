@@ -1,0 +1,9 @@
+{
+    "name": "leaflet-decarta",
+    "description": "deCarta maps for Leaflet",
+    "version": "0.1.0",
+    "devDependencies": {
+        "interleave": "*",
+        "uglify-js": "*"
+    }
+}
